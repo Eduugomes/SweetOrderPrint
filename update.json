@@ -4,12 +4,12 @@
   "mandatory": false,
   "notes": "Primeira versão multiplataforma do SweetOrder Print V2.",
   "windows": {
-    "url": ""
+    "url": "https://github.com/Eduugomes/SweetOrderPrint/releases/latest/download/SweetOrderPrint-Windows-x64.exe"
   },
   "linux": {
-    "url": ""
+    "url": "https://github.com/Eduugomes/SweetOrderPrint/releases/latest/download/SweetOrderPrint-Linux-x64.deb"
   },
   "android": {
-    "url": ""
+    "url": "https://github.com/Eduugomes/SweetOrderPrint/releases/latest/download/SweetOrderPrint-Android.apk"
   }
 }
